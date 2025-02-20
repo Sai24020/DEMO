@@ -6,7 +6,7 @@ import {
   CardHeader,
   CardTitle,
 } from "../ui/card";
-import Ratings from "../ui/ratings";
+import Ratings from "../ui/ratnings";
 import Image from "next/image";
 
 export async function ProductDetailsCard({

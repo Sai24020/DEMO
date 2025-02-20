@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Quicksand  } from "next/font/google";
+import { Geist, Geist_Mono, Quicksand } from "next/font/google";
 import "./globals.css";
 import NavMain from "@/components/navigation/nav-main";
 
