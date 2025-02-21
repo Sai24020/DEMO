@@ -32,5 +32,13 @@
     "eslint-config-next": "15.1.7",
     "postcss": "^8.5.3",
     "typescript": "^5"
-  }
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sai24020/DEMO/issues"
+  },
+  "homepage": "https://github.com/Sai24020/DEMO#readme",
+  "description": ""
 }
+
